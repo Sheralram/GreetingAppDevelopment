@@ -1,5 +1,4 @@
 package com.bridgelabz.greetingappdevelopment.entity;
-
 import lombok.Data;
 
 import javax.persistence.Entity;
